@@ -1,0 +1,11 @@
+python-blosc 
+cytoolz
+nomkl
+dask>=1.2.1
+numpy>=1.9.2
+scipy>=0.15.1
+scikit-learn>=0.18
+pandas>=0.19 
+tini>=0.18.0
+
+
